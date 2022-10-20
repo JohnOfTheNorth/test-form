@@ -1,0 +1,16 @@
+main form div {
+  margin-top: 20px;
+}
+
+input,
+label,
+textarea {
+  display: flex;
+  resize: horizontal;
+  width: 500px;
+}
+
+textarea {
+  resize: vertical;
+  height: 100px;
+}
